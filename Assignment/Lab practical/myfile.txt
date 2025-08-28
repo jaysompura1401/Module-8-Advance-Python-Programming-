@@ -1,0 +1,2 @@
+Hello, this is my first file handling program in Python.
+I am learning how to open, write, and close a file.
